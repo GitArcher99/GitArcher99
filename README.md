@@ -49,10 +49,16 @@ Slack
 Service Now
 SSRM
 
-Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-
-    
-Projects
-Detection Lab
-SOC Automation Project
+🎓 Certifications
+Certified Security Operations Center Anaylst
+Certified Cloud Security Anaylst
+Python for Cybersecurity
+SIEM Splunk
+Blue Team Junior Anaylst
+ISC2 Certified In Cybersecurity
+IBM IT Support
+IBM & ISC2 Cybersecurity Specalist
+Information Technology and Cloud Fundamentals
+Cisco Security Operations Center
+Google Foundations of Cybersecurity
+ISC2 Network Security
