@@ -74,6 +74,3 @@ Information Technology and Cloud Fundamentals
 Cisco Security Operations Center
 Google Foundations of Cybersecurity
 ISC² Network Security
-
-GitHub:
-Email:jrarcher2017@gmail.com
