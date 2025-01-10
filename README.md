@@ -62,6 +62,9 @@ High School Diploma
 TechBoston Academy
 
 🏅 Certifications
+AIG Cybersecurity Simulation
+Mastercard Cybersecurity simulation
+Goldman Sachs Risk management simulation
 Certified Security Operations Center Analyst
 Certified Cloud Security Analyst
 Python for Cybersecurity
@@ -74,3 +77,7 @@ Information Technology and Cloud Fundamentals
 Cisco Security Operations Center
 Google Foundations of Cybersecurity
 ISC² Network Security
+Google Tools of the trade: Linux & SQL
+Google Netoworks & Network security
+ISC2 Security Operations
+Python for Active Defense
